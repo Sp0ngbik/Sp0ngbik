@@ -20,7 +20,7 @@ there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-163
 
 ---
 
-### Stack :
+### 📖 Stack :
 
 <div align="center">
   <img src="img/stack/nodejs-plain.svg" title="NodeJs" alt="NodeJs" width="50" height="50"/>&nbsp;
@@ -43,7 +43,7 @@ there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-163
 
 ---
 
-## :link: Links
+## 🔗 Links
 
 <a href="sp0ngbik:sp0ngbik@gmail.com"><img src="img/social/gmail.png" alt="gmail"/></a>
 <a href="https://www.linkedin.com/in/vlad-ostapuk-75042722b/"><img src="img/social/linkedin.png" alt="linkedin"/></a>
