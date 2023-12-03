@@ -1,5 +1,5 @@
 <div>
-  <img src="img/main/Fire.gif" alt="chilling penguin is not found:c" align="right" width="550px">
+  <img src="img/main/Fire.gif" alt="chilling penguin is not found:c" align="right" width="450px">
 
 <h3>Hi
 there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h3>
@@ -12,10 +12,36 @@ there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-163
 
 <h2>⚡️ More about my coding life</h2>
 
-  <img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp0ngbik&amp;layout=compact&amp;hide=css,html"/>
+<img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp0ngbik&amp;layout=compact&amp;hide=css,html"/>
+
 </div>
 
 <div align="center">
+
+---
+
+### Stack :
+
+<div align="center">
+  <img src="img/stack/nodejs-plain.svg" title="NodeJs" alt="NodeJs" width="50" height="50"/>&nbsp;
+  <img src="img/stack/typeScript.png" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
+  <img src="img/stack/JavaScript-logo.png" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="img/stack/Sass.png" title="SASS" alt="SASS" width="50" height="50"/>&nbsp;
+  <img src="img/stack/CSS3_logo.svg.png" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="img/stack/ant-design-icon-512x512-xbdsnx83.png" title="Antd design" alt="Antd design" width="50" height="50"/>&nbsp;
+  <img src="img/stack/logo.png" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
+  <img src="img/stack/figma.png" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
+  <img src="img/stack/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="img/stack/github-icon-2048x1988-jzvzcf2t.png" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+  <img src="img/stack/1684410508-image-7.png" title="NextJS" alt="NextJS" width="50" height="50"/>&nbsp;
+  <img src="img/stack/redux.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
+  <img src="img/stack/fca49300-e7f1-11ea-9f51-cfd949b31560.png" title="Zustand" alt="Zustand" width="50" height="50"/>&nbsp;
+  <img src="img/stack/axios_logo_icon_168545.png" title="Axios" alt="Axios" width="50" height="50"/>&nbsp;
+  <img src="img/stack/node-express.png" title="Express" alt="Express" width="50" height="50"/>&nbsp;
+  <img src="img/stack/mongodb_original_logo_icon_146424.png" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
+</div>
+
+---
 
 ## :link: Links
 
