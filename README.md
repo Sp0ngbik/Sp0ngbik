@@ -5,8 +5,6 @@ I'm currently learning building tools and AST.
 <summary>⚡️ More about my coding life</summary>
 <br />
 
-## Life 
-
 <img src="./img/main/Fire.gif" alt="chilling penguin is not found:c" align="right" width="250px">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sp0ngbik&layout=compact&hide=css,html)
