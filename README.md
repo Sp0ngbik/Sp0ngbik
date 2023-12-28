@@ -46,7 +46,7 @@ there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-163
 
 ## 🔗 Links
 
-<a href="sp0ngbik:sp0ngbik@gmail.com"><img src="img/social/gmail.png" alt="gmail"/></a>
+<a href="mailto:sp0ngbik@gmail.com"><img src="img/social/gmail.png" alt="gmail"/></a>
 <a href="https://www.linkedin.com/in/vlad-ostapuk-75042722b/"><img src="img/social/linkedin.png" alt="linkedin"/></a>
 <a href="https://www.instagram.com/vladostapuk/"><img src="img/social/instagram-new.png" alt="instagram"/></a>
 <a href="https://ru.pinterest.com/vladtrall/"><img src="img/social/pinterest--v1.png" alt="pinterest"/></a>
