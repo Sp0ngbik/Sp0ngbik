@@ -42,7 +42,6 @@ there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-163
   <img src="img/stack/mongodb_original_logo_icon_146424.png" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
 </div>
 
----
 
 ## 🔗 Links
 
