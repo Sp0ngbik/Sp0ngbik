@@ -7,9 +7,7 @@
 <h3>My name is <a href="https://t.me/sp0ngbik/">Vlad</a></h3>
   <img src="https://komarev.com/ghpvc/?username=Sp0ngbik&style=flat-square&color=blue" alt=""/>
 <div>
-
 <h3>⚡️ More about my coding life</h3>
-
 <img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp0ngbik&amp;layout=compact&amp;hide=css,html"/>
 
 </div>
